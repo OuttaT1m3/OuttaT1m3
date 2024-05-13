@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @OuttaT1m3
+- 👀 I’m interested in understanding code, and women
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate at your place not mine, I live with my parents :)
+- 📫 How to reach me: ping me and I can drop an email.
+- 😄 Pronouns: yes
+- ⚡ Fun fact: I am very average at CS:Source
+- Base game Unreal Engine 5 with C++ armour DLC
